@@ -1,2 +1,1 @@
-# security-oh6fq
-bug in Participant comparison
+# https://github.com/gratipay/security-oh6fq/issues/1
