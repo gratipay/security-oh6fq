@@ -1,1 +1,1 @@
-# https://github.com/gratipay/security-oh6fq/issues/1
+## https://github.com/gratipay/security-oh6fq/issues/1
